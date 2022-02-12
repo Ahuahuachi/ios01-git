@@ -2,4 +2,4 @@
 
 - Alfredo Altamirano @Ahuahuachi
 
-- Juan de Dios Vargas @vargas86 
+- 2. Juan de Dios Vargas @vargas86 
