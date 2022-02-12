@@ -1,4 +1,6 @@
 # Koders iOS 1
 
-- 1. Alfredo Altamirano @Ahuahuachi
-- 2. Juan de Dios Vargas @vargas86 
+1. Alfredo Altamirano @Ahuahuachi
+2. Mario Saldaña @msaldeveloper
+3. Itzel Ibañez @Itzibam
+4. Juan de Dios @vargas86
