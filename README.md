@@ -5,5 +5,7 @@
 3. Itzel Ibañez @Itzibam
 4. Juan de Dios @vargas86
 5. Jesus Cordova @jesuscordova1
-6. Daphne Castro daphnekstro
+6. Luis Angel Vicente Robles @LuisVicente2021
+7. Mariela Torres @MarielaTorresB
+8. Daphne Castro daphnekstro
 
