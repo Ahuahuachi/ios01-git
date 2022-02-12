@@ -1,3 +1,3 @@
 # Koders iOS 1
 
-- Alfredo Altamirano @Ahuahuachi
+1. Alfredo Altamirano @Ahuahuachi
